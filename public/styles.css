@@ -63,6 +63,7 @@ nav {
 .nav-links a:hover {
     color: #ED213A;
 }
+
 /*home*/
 
 .content {
@@ -87,7 +88,7 @@ nav {
     -webkit-backdrop-filter: blur(20px);
     border: 1px solid rgba(253, 200, 48, 0.22);
     width: 50%;
-    height: 40vh;
+    height: 35%;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -110,7 +111,7 @@ nav {
     -webkit-backdrop-filter: blur(20px);
     border: 1px solid rgba(253, 200, 48, 0.22);
     width: 50%;
-    height: 40vh;
+    height: 35%;
     text-align: center;
     justify-content: center;
     align-items: center;
