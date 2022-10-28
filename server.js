@@ -13,7 +13,7 @@ var imgModel = require('./model/image.js');
 
 const { adminAuth, userAuth } = require("./middleware/auth.js");
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 
 
